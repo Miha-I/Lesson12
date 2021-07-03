@@ -1,0 +1,18 @@
+<project>
+    <modelVersion>test version 1</modelVersion>
+    <groupId>test group 1</groupId>
+    <artifactId>test artifact 1</artifactId>
+    <version>test version 2</version>
+    <properties>
+        <project.build.sourceEncoding>test encoding 1</project.build.sourceEncoding>
+        <maven.compiler.course></maven.compiler.course>
+        <maven.compiler.target> </maven.compiler.target>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>test group 1</groupId>
+            <artifactId>test artifact 2</artifactId>
+            <version>test version 3</version>
+        </dependency>
+    </dependencies>
+</project>
